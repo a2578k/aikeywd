@@ -34,4 +34,6 @@ JSON,,JavaScript のオブジェクトの表記法などを基にして規定さ
 作成されたCSVファイルをコピーする
 学習アプリhttps://apps.apple.com/us/app/応用情報/id6467130182
 の設定・学習データの入力の画面にペースト、登録ボタンをクリックすると読み込み完了
+
+
 <a href="https://apps.apple.com/us/app/%E5%BF%9C%E7%94%A8%E6%83%85%E5%A0%B1/id6467130182?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/1e/60/501e60ee-a389-356c-5616-120f1c6ce86f/AppIcon-0-0-1x_U007epad-0-85-220.png/540x540bb.jpg" alt="応用情報" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
