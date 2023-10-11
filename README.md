@@ -5,7 +5,9 @@ google bardを起動する`https://bard.google.com/chat?utm_source=sem&utm_mediu
 
 pdfファイルを指定して要約作成する
 次のPDF文書の問題１から問題１０までの要約をお願いしたいhttps://www.ipa.go.jp/shiken/mondai-kaiotu/ps6vr70000010d6y-att/2023r05a_ap_am_qs.pdf
+  
 この文書で使われている情報処理用語をCSV形式で出力したい
+  
 結果表示
 
 ```
